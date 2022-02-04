@@ -1,1 +1,5 @@
-public class SkillDemo{} // Will edit in VSCode
+public class SkillDemo{
+    public static int product(int a, int b){
+        return a * b;
+    }
+} 
